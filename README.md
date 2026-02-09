@@ -24,8 +24,9 @@ I actively practice data structures and algorithms to strengthen problem-solving
 
 ### LeetCode & GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajivk5&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajivk5&show_icons=true" height="150"/>
 </p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivk5&hide_border=true" height="150"/>
