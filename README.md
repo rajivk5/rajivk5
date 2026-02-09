@@ -24,11 +24,6 @@ I actively practice data structures and algorithms to strengthen problem-solving
 
 ### LeetCode Stats
 
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivk5?theme=dark&hide_border=true" />
-</p>
-
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/rajivk5?theme=dark&font=baloo&ext=heatmap" />
 </p>
@@ -42,5 +37,14 @@ I actively practice data structures and algorithms to strengthen problem-solving
 
 ---
 
-### Connect
-- LeetCode: https://leetcode.com/rajivk5
+<p align="left">
+  <a href="https://leetcode.com/rajivk5" target="_blank">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+      alt="LeetCode" 
+      height="28"
+    />
+    <strong> View my LeetCode Profile</strong>
+  </a>
+</p>
+
