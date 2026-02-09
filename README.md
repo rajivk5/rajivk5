@@ -7,7 +7,7 @@ I actively practice data structures and algorithms to strengthen problem-solving
 ---
 
 ### Focus Areas
-- Frontend Development (JavaScript, React)
+- Frontend Development (JavaScript, ReactJS,NodeJS)
 - Data Structures & Algorithms
 - UI Performance & Code Quality
 - Consistent Learning & Improvement
@@ -16,7 +16,8 @@ I actively practice data structures and algorithms to strengthen problem-solving
 
 ### Tech Stack
 - JavaScript (ES6+)
-- React
+- NodeJS
+- ReactJS
 - HTML5, CSS3
 - Git & GitHub
 
