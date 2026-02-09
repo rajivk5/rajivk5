@@ -1,8 +1,9 @@
-## Rajiv Kumar
+Frontend Developer specializing in JavaScript and React, with a strong focus on clean UI, performance, and maintainable code.
 
-Frontend Developer with a strong focus on JavaScript and React.  
-Passionate about clean code, UI performance, and problem-solving.
+I actively work on improving data structures and algorithms to strengthen problem-solving skills and write more efficient, scalable solutions. I enjoy building real-world frontend projects that follow good architecture and best practices.
 
-- 🔹 Frontend Development
-- 🔹 Data Structures & Algorithms
-- 🔹 Continuous Learning
+**Focus Areas**
+- Frontend Development (JavaScript, React)
+- Data Structures & Algorithms
+- UI Performance and Code Quality
+- Consistent Learning & Improvement
