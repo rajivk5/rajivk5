@@ -26,7 +26,7 @@ I actively practice data structures and algorithms to strengthen problem-solving
 ### LeetCode Stats
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/rajivk5?theme=dark&font=baloo&ext=heatmap" style="pointer-events:none;"/>
+  <img src="https://leetcard.jacoblin.cool/rajivk5?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
