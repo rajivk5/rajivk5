@@ -22,18 +22,15 @@ I actively practice data structures and algorithms to strengthen problem-solving
 
 ---
 
-### LeetCode & GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajivk5&show_icons=true" height="150"/>
-</p>
+### LeetCode Stats
 
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivk5&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivk5?theme=dark&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/rajivk5?theme=light&font=baloo&ext=heatmap" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/rajivk5?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
@@ -45,11 +42,5 @@ I actively practice data structures and algorithms to strengthen problem-solving
 
 ---
 
-### Projects
-Explore my repositories to find frontend applications, UI-focused implementations, and algorithm practice.
-
----
-
 ### Connect
-- GitHub: https://github.com/rajivk5
 - LeetCode: https://leetcode.com/rajivk5
